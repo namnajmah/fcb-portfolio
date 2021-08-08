@@ -44,3 +44,7 @@ ul {
 h2 {
   color: #fc4842b0;
 }
+
+html {
+  scroll-behavior: smooth;
+}
